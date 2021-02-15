@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+# Retro Tools
 
-You can use the [editor on GitHub](https://github.com/amyjokidd/Retro_Tools.Markdown-GitHub.English/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+-   [Abstract](hwh1613403600519.md)
+-   [Notice](hfz1613403600570.md)
+    -   [Trademarks](nbo1613403600621.md)
+-   [Sample Preface](oma1613403600669.md)
+-   [Installing](dbq1613403600716.md)
+    -   [Installing hard drives or other storage](bgp1613403600781.md)
+        -   [Remove the cover of your system](cds1613403600830.md)
+        -   [Attach the drive to the system](btp1613403600880.md)
+        -   [Replace the cover of your system.](eft1613403600930.md)
+    -   [Installing your own Web Server](sll1613403600978.md)
+        -   [Close all of your programs](ovb1613403601040.md)
+        -   [Run Setup.exe](dur1613403601089.md)
+        -   [Restart your system](iyg1613403601139.md)
+    -   [Installing your own Database](gsi1613403601187.md)
+-   [Configuring](aiq1613403601234.md)
+    -   [Configuring hard storage devices](ldg1613403601288.md)
+    -   [Configuring your Web Server](fxi1613403601349.md)
+    -   [Configuring a Database](tdg1613403601401.md)
+-   [Maintaining](hax1613403601447.md)
+    -   [Maintaining your hard drive](ayw1613403601497.md)
+    -   [Maintaining a Web Server](ogh1613403601562.md)
+    -   [Maintaining a database](vor1613403601615.md)
+-   [Troubleshooting](ucd1613403601662.md)
+    -   [Troubleshooting your hard disk](zfp1613403601721.md)
+    -   [Troublshooting Web Server problems](abn1613403601770.md)
+    -   [Troubleshooting a database](imf1613403601821.md)
+-   [Sample Appendix](xim1613403601870.md)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/amyjokidd/Retro_Tools.Markdown-GitHub.English/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
